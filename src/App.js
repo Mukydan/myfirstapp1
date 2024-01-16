@@ -6,8 +6,6 @@ import Card from 'react-bootstrap/Card';
 
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import CardGroup from 'react-bootstrap/CardGroup';
-
 import './App.css';
 
 function App() {
